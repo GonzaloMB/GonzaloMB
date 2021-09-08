@@ -1,6 +1,6 @@
 # Hi I'm [Gonzalo](https://www.linkedin.com/in/gonzalo-meana-balseiro-90a523188/) 👋👨‍💻
 
-<img href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 ### About me in code
 
