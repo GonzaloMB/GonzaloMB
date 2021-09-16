@@ -3,10 +3,14 @@
 ### About me in code
 
 ```js
+do{
+  beBetterEveryDay();
+}while(true);
+
 const gonzaloMB = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, ABAP, Python, PL/SQL],
-  tools: [UI5, CDS, Node, Docker],
+  code: [Javascript, HTML, CSS, ABAP, UI5, React.js, PL/SQL],
+  tools: [NPM, NODE, CDS, Docker],
   currentJob: {
                         position: "SAPUI5 | SAP Fiori UX analyst-developer",
                         company: "Unisys",
