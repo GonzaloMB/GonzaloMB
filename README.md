@@ -9,7 +9,7 @@ do{
 
 const gonzaloMB = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, ABAP, UI5, React.js, PL/SQL],
+  code: [JAVASCRIPT, HTML, CSS, ABAP, UI5, REACT, PL/SQL],
   tools: [NPM, NODE, CDS, Docker],
   currentJob: {
                         position: "SAPUI5 | SAP Fiori UX analyst-developer",
