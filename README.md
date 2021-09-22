@@ -10,7 +10,7 @@ do{
 const gonzaloMB = {
   pronouns: "he" | "him",
   code: [JAVASCRIPT, HTML, CSS, ABAP, UI5, REACT, PL/SQL],
-  tools: [NPM, NODE, CDS, DOCKER],
+  tools: [NPM, NODE, CDS, ODATA, DOCKER],
   currentJob: {
                         position: "SAPUI5 | SAP Fiori UX analyst-developer",
                         company: "Unisys",
