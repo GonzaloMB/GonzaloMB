@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Gonzalo 👋👨‍💻</h1>
-<div align="center">
+<h1 align="left">Hi I'm Gonzalo 👋👨‍💻</h1>
+<div align="left">
   <h3>
     <a href="https://www.linkedin.com/in/gonzalo-meana-balseiro-90a523188/">
       Contact Me 📝
