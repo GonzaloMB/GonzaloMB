@@ -21,11 +21,10 @@ do{
 
 const gonzaloMB = {
   pronouns: "he" | "him",
-  code: [JAVASCRIPT, HTML, CSS, ABAP, UI5, REACT.JS, PL/SQL],
-  tools: [NPM, NODE.JS, CDS, ODATA, DOCKER],
+  skills: [JAVASCRIPT, HTML, CSS, ABAP, UI5, BTP, REACT.JS, PL/SQL, NPM, NODE.JS, CDS, ODATA],
   currentJob: {
-                        position: "SAPUI5 | SAP Fiori UX analyst-developer",
-                        company: "Unisys",
+                        position: "SAP Fiori Consultant | SAPUI5 BTP analyst-developer",
+                        company: "Deloitte",
                       },
 }
 ```
