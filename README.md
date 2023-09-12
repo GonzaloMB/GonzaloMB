@@ -23,7 +23,7 @@ const gonzaloMB = {
   pronouns: "he" | "him",
   skills: [JAVASCRIPT, HTML, CSS, ABAP, UI5, BTP, REACT.JS, PL/SQL, NPM, NODE.JS, CDS, ODATA],
   currentJob: {
-                        position: "SAP Fiori Consultant | SAPUI5 BTP analyst-developer",
+                        position: "Consultant Developer | UI5 | FIORI | BTP | CAP | CDS | Node.js",
                         company: "Deloitte",
                       },
 }
