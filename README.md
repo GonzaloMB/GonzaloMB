@@ -1,5 +1,5 @@
 <h1 align="left">Hi I'm Gonzalo 👋👨‍💻</h1>
-![aa4846d84035bb97903a10edfe0f22e9](https://github.com/user-attachments/assets/50ec1621-7171-4a75-b3c5-86a28ce71668)
+
 <div align="left">
   <h3> 📝 
     <a href="https://www.linkedin.com/in/gonzalo-meana-balseiro-90a523188/">
