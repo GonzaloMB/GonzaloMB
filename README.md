@@ -1,9 +1,9 @@
 
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/de842ddc-551d-484a-aea4-3937b07c4e75" /></p>
+<p align="center"> <img style="width: 50%; height: 50%;" src="https://github.com/user-attachments/assets/de842ddc-551d-484a-aea4-3937b07c4e75" /></p>
 
 
-<h2>👽 Hi! I'm Gonz</h2>
+<h2>👽 Hi! I'm Gonzalo</h2>
 <hr />
 <table>
   <tr>
