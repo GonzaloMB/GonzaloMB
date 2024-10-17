@@ -1,29 +1,61 @@
-<h1 align="left">Hi I'm Gonzalo 👋👨‍💻</h1>
-
-<div align="left">
-  <h3> 📝 
-    <a href="https://www.linkedin.com/in/gonzalo-meana-balseiro-90a523188/">
-      Contact Me
-    </a>
-  </h3>
-    <h3> 💻  
-    <a href="https://gonzalomb.vercel.app/">
-      Check my website
-    </a>
-  </h3>
-</div>
 
 
+<p align="center"> <img src="https://github.com/user-attachments/assets/de842ddc-551d-484a-aea4-3937b07c4e75" /></p>
 
-### About me in code ... 🤔
 
-```js
-do{
-  beBetterEveryDay();
-}while(true);
+<h2>👽 Hi! I'm Gonz</h2>
+<hr />
+<table>
+  <tr>
+    <td style="width: 50%;">
+      
+```javascript
+
+const GonzaloMB = {
+  pronouns: "he" | "him",
+  code: [
+    "Javascript", "Typescript", "HTML", "CSS", "Python", 
+    "SQL", "CAP", "UI5", "Svelte", "React", "Next.js", "Node.js"
+  ],
+  tools: [
+    "Node.js", "Tailwind", "Docker", "BTP", "Linux", 
+    "Git", "VSCode"
+  ],
+  architecture: [
+    "microservices", "event-driven",
+    "REST APIs", "MVC pattern", "Clean Core"
+  ],
+}
 ```
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
+</td>
+<td>
+  
+```javascript
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠤⠐⠒⠂⠤⢄⡀⠀⠀⠀⠀  
+⠀⠀⠀⠀⠀⠀⡠⠖⠁⠀⠀⠀⠀⠀⠁⠢⡈⠲⣄⠀⠀  
+⠀⠀⠀⠀⠀⡜⠁⠀⢀⠁⠀⠀⠈⢁⠀⠔⠀⠄⠈⢦⠀  ⠀
+⠀⠀⠀⠀⠀⣦⡇⠀⠀⠀⠀⡀⡀⠀⠀⠀⠀⠀⢸⣴⠁  
+⠀⠀⠀⠀⠀⢹⡧⠄⠀⠀⢉⠐⠒⠀⡉⠁⠀⠢⢼⡇⠀  
+⠀⠀⠀⠀⠀⢸⢸⣟⠛⣿⣦⠑⠀⠊⣴⠿⣿⣿⡏⡇⠀  
+⠀⠀⠀⠀⠀⠘⢮⢻⣿⣿⣿⡇⠀⢸⣿⣾⣿⣟⡴⠁⠀  
+⡤⠄⠀⡖⢢⠀⠈⢳⡈⠙⠛⢁⠀⡈⠛⠋⣁⡞⠁⠀⠀  
+⠱⡸⡀⡕⡎⠀⠀⠀⠳⣄⠀⠉⠀⠉⠀⣠⠟⠀⠀⠀⠀  
+⠀⢣⢣⡇⡇⠀⠀⠀⠀⠈⢧⡀⠒⢈⡼⠁⠀⠀⠀⠀⠀  
+⢴⢺⣃⡒⠣⡀⠀⠀⠀⠀⠸⣿⠲⣿⠇⠀⠀⠀⠀⠀⠀  
+⠈⠣⡹⠉⢀⠃⠀⢀⣀⡠⠜⡙⣀⢛⠣⢄⣀⡀⠀⠀⠀  
+⠀⠀⠑⡏⣹⠀⢸⠇⢀⠀⠉⠀⣀⠀⠁⠀⡄⠸⡆⠀⠀  
+⠀⠀⠀⢁⠀⢇⡸⢀⣨⡀⠀⠀⢀⠀⠀⢀⣅⠀⡇⠀⠀  
+⠀⠀⠀⠸⡀⠈⠇⣸⠏⣇⠀⠀⠤⠀⠀⣸⡇⠀⠀⠀⠀  
+⠀⠀⠀⠀⣿⡀⢨⡟⠀⡗⠀⠀⢀⠀⠀⢺⡇⠀⠇⠀⠀  
+⠀⠀⠀⠀⠈⠺⡽
+
+```
+</td>
+</tr> </table>
+
+📈 My github stats
+<hr />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GonzaloMB&show_icons=true&theme=tokyonight" alt="GonzaloMB" /></p>
+<p align="center"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloMB&layout=compact&theme=tokyonight&hide_border=true" /></p>
 
 
