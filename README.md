@@ -1,7 +1,5 @@
 
-<p align="center"> <img style="width: 50%; height: 50%;" src="https://github.com/user-attachments/assets/de842ddc-551d-484a-aea4-3937b07c4e75" /></p>
-
-<p align="center"  style="width: 50%;">
+<div align="center" >
     
 ```
   ▄████  ▒█████   ███▄    █ ▒███████▒ ▄▄▄       ██▓     ▒█████   ███▄ ▄███▓ ▄▄▄▄   
@@ -16,7 +14,7 @@
                             ░                                                    ░
                             ⠀⠀ ⠀⠀⠀⠀⠀⠀⡠⠤⠐⠒⠂⠤⢄⡀⠀⠀⠀⠀  
                             ⠀⠀ ⠀⠀⠀⡠⠖⠁⠀⠀⠀⠀⠀⠁⠢⡈⠲⣄⠀⠀  
-  ⠀⠀⠀⠀⠀                          ⡜⠁⠀⢀⠁⠀⠀⠈⢁⠀⠔⠀⠄⠈⢦⠀  ⠀
+  ⠀⠀⠀⠀ ⠀                         ⡜⠁⠀⢀⠁⠀⠀⠈⢁⠀⠔⠀⠄⠈⢦⠀  ⠀
 ⠀⠀  ⠀⠀⠀                          ⣦⡇⠀⠀⠀⠀⡀⡀⠀⠀⠀⠀⠀⢸⣴⠁  
   ⠀⠀⠀⠀⠀                          ⢹⡧⠄⠀⠀⢉⠐⠒⠀⡉⠁⠀⠢⢼⡇⠀  
 ⠀⠀  ⠀⠀⠀                          ⢸⢸⣟⠛⣿⣦⠑⠀⠊⣴⠿⣿⣿⡏⡇⠀  
@@ -29,12 +27,13 @@
   ⠀⠀                          ⠑⡏⣹⠀⢸⠇⢀⠀⠉⠀⣀⠀⠁⠀⡄⠸⡆⠀⠀  
   ⠀⠀                          ⠀⢁⠀⢇⡸⢀⣨⡀⠀⠀⢀⠀⠀⢀⣅⠀⡇⠀⠀  
   ⠀⠀⠀                          ⠸⡀⠈⠇⣸⠏⣇⠀⠀⠤⠀⠀⣸⡇⠀⠀⠀⠀  
-  ⠀⠀⠀                          ⠀⣿⡀⢨⡟⠀⡗⠀⠀⢀⠀⠀⢺⡇⠀⠇⠀⠀  
-  ⠀⠀⠀                          ⠀⠈⠺⡽
+ ⠀⠀⠀                          ⠀⣿⡀⢨⡟⠀⡗⠀⠀⢀⠀⠀⢺⡇⠀⠇⠀⠀
 ```
 
-</p>
+</div>
 
-<p align="center" > <img  style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=GonzaloMB&show_icons=true&theme=tokyonight" alt="GonzaloMB" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloMB&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center" > <img  style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=GonzaloMB&show_icons=true&theme=tokyonight" alt="GonzaloMB" /> </p>
+   <p align="center" >  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloMB&layout=compact&theme=tokyonight&hide_border=true" /> 
+</p>
 
 
